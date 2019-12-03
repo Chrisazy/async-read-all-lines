@@ -1,0 +1,22 @@
+{
+  "name": "async-read-all-lines",
+  "version": "1.0.0",
+  "description": "Simply wraps Node's core readline/fs in a promise to be easily awaited",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readline",
+    "async",
+    "promise",
+    "fs",
+    "all",
+    "lines"
+  ],
+  "author": "Christopher Wirt",
+  "license": "ISC"
+}
